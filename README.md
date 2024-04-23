@@ -4,3 +4,5 @@ HiveTech Innovations focuses on "Building a Better Bee". We plan to help our nat
 
 This project was a collaborative assignment with Wes Huneycutt as CEO, Sabrina Pinard as CTO, and Catherine Cheedle as CFO. 
 Course Professor and Business Advisor: Dr. Richard Allen White III
+
+![NEWTeamScienceLogo](https://github.com/weshuneycutt/HiveTechInnovations/assets/113141576/e8295b23-d751-4c8c-94f9-0ef8a9bcf18e)
